@@ -1,4 +1,3 @@
-ExporsureTime: 370ms
 ZStep: 0.3um
 Layers: 7
 StripePeriod: 4pixel
