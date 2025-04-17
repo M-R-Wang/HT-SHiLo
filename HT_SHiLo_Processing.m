@@ -13,7 +13,7 @@ Parameters.StripePeriod = 4; % Period of the stripe in raw images (unit: pixels)
 Parameters.PixelSize = 0.1; % unit: μm
 Parameters.ZStep = 0.3; % unit: μm
 Parameters.NA = 1.49; % NA of objective lens
-Parameters.StripeDirection = 'Vertical'; % Direction of the stripe in raw images, specified as 'Vertical' or 'Horizontal'
+Parameters.StripeDirection = 'Horizontal'; % Direction of the stripe in raw images, specified as 'Vertical' or 'Horizontal'
 %% HT-SHiLo Processing
 OS_HT_SHiLo = HT_SHiLo(Images,Parameters);
 %% Write Opical Sectioning Images

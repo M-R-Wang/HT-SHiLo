@@ -2,4 +2,4 @@ ZStep: 0.3um
 Layers: 7
 StripePeriod: 4pixel
 PixelSize: 0.1¦Ìm
-StripeDirection: Vertical
+StripeDirection: Horizontal
