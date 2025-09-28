@@ -6,7 +6,7 @@
 % dimensions represent X and Y, while in the third dimension, the (2i-1)-th
 % index and (2i)-th index correspond to Phase 1 and Phase 2 of the i-th
 % layer, respectively.
-ImageName = 'OS-SIM data\BPAEC_60X1.49NA_385.tif';
+ImageName = 'OS-SIM data\BPAEC_60X1.49NA_488.tif';
 Images = tiffreadVolume(ImageName);
 %% Set Parameters
 Parameters.StripePeriod = 4; % Period of the stripe in raw images (unit: pixels)
